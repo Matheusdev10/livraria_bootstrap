@@ -1,0 +1,28 @@
+.card-img-top{
+    height:100px;
+    max-width: 50%;
+}
+
+.card{
+    height: 28rem;
+    margin-top: 30px;
+}
+
+.btn{
+    display: flex;
+}
+
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    
+}
+.ola{
+display: flex;
+justify-content: flex-end;
+align-items: center;
+justify-content: center;
+height: 100%;
+max-width: 
+}

@@ -1,0 +1,34 @@
+body{
+    width: 100%;
+    background-color: lightblue;
+}
+h2{
+  text-align: center;
+  
+  
+}
+.container{
+ width: 100%;
+ height: 100vh;
+ 
+
+}
+#form-input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+
+}
+
+
+#btn{
+
+  width: 100%;
+ 
+
+}
+.input-group{
+  margin-bottom: 20px;
+}
